@@ -11,6 +11,6 @@
     },
     "content_scripts": [ {
 	"matches": [ "http://www.postcrossing.com/*" ],
-	"js": [ "jquery-2.0.2.min.js", "postsave.js" ]
+	"js": [ "jquery-2.0.3.min.js", "postsave.js" ]
     } ]
 }
