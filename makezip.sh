@@ -2,5 +2,5 @@
 FILENAME=PostSaving.zip
 rm ${FILENAME}
 cd src
-zip -r ../${FILENAME}.zip *
+zip -r ../${FILENAME} *
 cd ..
